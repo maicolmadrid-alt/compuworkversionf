@@ -23,6 +23,21 @@ La decisión de crear un nuevo repositorio se tomó por dos motivos principales:
 Soy consciente del funcionamiento de los repositorios y el control de versiones. Sin embargo, en este caso opté por separar los repositorios para aportar **mayor claridad y simplicidad en el proceso de evaluación académica**.
 
 
+
+---
+
+## 🔑 Acceso al sistema
+
+Para ingresar al sistema **CompuWork**, se establecieron las siguientes credenciales por defecto:
+
+- **Usuario:** `admin`  
+- **Contraseña:** `1234`  
+
+> ⚠️ Nota:  
+> Por motivos personales y de tiempo, no se desarrolló la funcionalidad que permitiera a cada usuario crear sus propias credenciales de acceso.  
+> En esta versión, el login se mantiene con un **usuario y contraseña predeterminados**, únicamente con fines de prueba y demostración del sistema.
+
+
 ---
 
 ## 📌 1. Clase base `Empleado`
